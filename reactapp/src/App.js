@@ -76,7 +76,7 @@ function App() {
       answer : 'Mahatma Gandhi'
     },
 
-  ]
+  
   const [startFlag, setStartFlag] = useState(false);
   const [resultFlag, setResultFlag] = useState(false);
   const [buttonText, setButtonText] = useState('Start Quiz');
